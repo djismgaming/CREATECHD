@@ -1,8 +1,6 @@
 # CREATECHD
 
-__Fork to try to remove the timeout preventing the files from being successfully processed by CHDMAN if they are big and take more time than in the timeout.__
-
-__Right now, using `CREATECHD.bat <input directory>` processes all files in that path and saves them as CHD in itself.__ 
+__Right now, using `CREATECHD.bat <input directory>` processes all files in that path and saves them as CHD in itthe same path.__
 
 ## Basic instructions
 
