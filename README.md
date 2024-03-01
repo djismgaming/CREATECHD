@@ -8,4 +8,3 @@ __Right now, using `CREATECHD.bat <input directory>` processes all files in that
 2. Input the command in this way `CREATECHD.bat <input directory>`, changing `<input directory>` with the path to your directory containing the files to be converted/compressed to CHD.
 3. Press Enter to process all files in the provided directory. These will be saved in that same directory but in CHD form.
 4. Enjoy! 😉
-
