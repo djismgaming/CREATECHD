@@ -7,7 +7,7 @@ setlocal enabledelayedexpansion
 set "path=%~1"
 for %%F in ("%path%\*") do (
     if exist "%%F" (
-        chdman createcd -i "%%F" -o "!path!\%%~nF.chd"
+        chdman createdvd -i "%%F" -o "!path!\%%~nF.chd"
     )
 )
 endlocal
