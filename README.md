@@ -1,6 +1,6 @@
 # CREATECHD
 
-__Right now, using `CREATECHD.bat <input directory>` processes all files in that path and saves them as CHD in it the same path.__
+__Right now, using `CREATECHD.bat <input directory>` processes all files in that path and saves them as CHD in the same path.__
 
 ## Basic instructions
 
